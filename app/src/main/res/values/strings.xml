@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Display Image from internet example</string>
+    <string name="load_image">Carregar imagem</string>
 </resources>
