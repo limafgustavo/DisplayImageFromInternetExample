@@ -15,6 +15,13 @@
         android:layout_margin="20dp"
         android:src="@color/black" />
 
+    <EditText
+        android:id="@+id/EditTexturl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:hint="url"
+        />
     <Button
         android:id="@+id/buttonLoadImage"
         android:layout_width="wrap_content"
